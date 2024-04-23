@@ -120,7 +120,7 @@ echo"<h5 ='color:#fff'>views on the website = ".$_SESSION['views']."</h5>";
 
 <!-- Copyright -->
 <div class="footer-copyright text-center py-3" id="navlink">
-  <br>Created by : Aditya Barve (BLOG WEBSITE)
+  <br>Created by : Aditya Barve (BLOG WEBSITE) and made using PHP and HTML CSS
 </div>
 <!-- Copyright -->
 
